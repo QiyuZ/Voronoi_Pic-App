@@ -2,5 +2,9 @@
 
 * please download these 4 files and run demo.py
 * Reference : http://www.cs.hmc.edu/~mbrubeck/voronoi.html (C++)
-![image](http://github.com/QiyuZ/Voronoi_Pic-App/raw/master/original.jpg)
-![image](http://github.com/QiyuZ/Voronoi_Pic-App/raw/master/after.jpg)
+
+
+
+<img width="200" height="200" src="https://github.com/QiyuZ/Voronoi_Pic-App/blob/master/original.jpg"/></div>
+<img width="200" height="200" src="https://github.com/QiyuZ/Voronoi_Pic-App/blob/master/after.jpg"/></div>
+
